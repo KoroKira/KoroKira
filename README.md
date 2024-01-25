@@ -5,7 +5,7 @@
 
 - 🌱 Je suis en train d'apprendre **à mieux faire du PHP, NodeJS, Tensorflow et PyTorch**
 
-- 👯 J'aime collaborer ! Rejoignez moi sur mes projets [CodIcam](https://github.com/CodIcam-Toulouse)
+- 👯 J'aime collaborer ! Rejoignez moi sur mes projets avec [CodIcam](https://github.com/CodIcam-Toulouse)
 
 - 🤝 J'ai besoin d'aide pour [un ERP !](https://github.com/KoroKira/Projet_ERP_ETE)
 
