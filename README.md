@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont sur [https://github.com/KoroKira](https://github.com/KoroKira)
 
-- 💬 Posez moi n'importe quelle question sur **du python**
+- 💬 Posez moi n'importe quelle question sur **du python**, je devrais pouvoir m'en sortir 😁
 
 - 📫 Me contacter **guilhem.desarcy-lemiere@2027.icam.fr**
 
