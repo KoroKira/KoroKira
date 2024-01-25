@@ -9,7 +9,7 @@
 
 - 🤝 J'ai besoin d'aide pour [un ERP !](https://github.com/KoroKira/Projet_ERP_ETE)
 
-- 👨‍💻 Tous mes projets sont sur [https://github.com/KoroKira](https://github.com/KoroKira)
+- 👨‍💻 Tous mes projets sont sur [mon GitHub](https://github.com/KoroKira)
 
 - 💬 Posez moi n'importe quelle question sur **du python**, je devrais pouvoir m'en sortir 😁
 
