@@ -25,4 +25,7 @@
 
 
 <!--START_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/018d6e0d-54e0-42c1-8131-aad6cc83e011/project/018d7891-8305-4df4-96ad-f3f20b7ea571.svg)](https://wakatime.com/badge/user/018d6e0d-54e0-42c1-8131-aad6cc83e011/project/018d7891-8305-4df4-96ad-f3f20b7ea571)
+
 <!--END_SECTION:waka-->
