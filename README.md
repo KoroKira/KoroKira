@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur [AlexandrIcam](https://github.com/KoroKira/AlexandrIcam)
 
-- 🌱 Je suis en train d'apprendre **à mieux faire du PHP, NodeJS, Tensorflow et PyTorch**
+- 🌱 Je suis en train d'apprendre **à utiliser un Raspberry Pi pour en faire un serveur**
 
 - 👯 J'aime collaborer ! Rejoignez moi sur mes projets avec [CodIcam](https://github.com/CodIcam-Toulouse)
 
@@ -15,7 +15,7 @@
 
 - 📫 Me contacter **guilhem.desarcy-lemiere@2027.icam.fr**
 
-- ⚡ Fun fact **Je suis chaotique dans ma façon de programmer, j'apprends juste pour mes projets et j'oublie toujours tout**
+- ⚡ Wiw **wiw**
 
 
 <h3 align="left">Langages et outils que j'explore:</h3>
