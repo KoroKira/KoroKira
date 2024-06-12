@@ -7,7 +7,7 @@
 
 - 👯 J'aime collaborer ! Rejoignez moi sur mes projets avec [CodIcam](https://github.com/CodIcam-Toulouse)
 
-- 🤝 J'ai besoin d'aide pour [un ERP !](https://github.com/KoroKira/Projet_ERP_ETE)
+- 🤝 J'ai besoin d'aide pour... Rien actuellement !
 
 - 👨‍💻 Tous mes projets sont sur [mon GitHub](https://github.com/KoroKira)
 
