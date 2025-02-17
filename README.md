@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, je suis Guilhem</h1>
 <h3 align="center">Un étudiant qui code pour le fun, mais qui espère devenir meilleur</h3>
 
-- 🔭 Je travaille actuellement sur [AlexandrIcam](https://github.com/KoroKira/AlexandrIcam)
+- 🔭 Je travaille actuellement sur [AlexandrIcam](https://github.com/KoroKira/AlexandrIcam_Revival)
 
-- 🌱 Je suis en train d'apprendre **à utiliser un Raspberry Pi pour en faire un serveur**
+- 🌱 Je suis en train d'apprendre **à utiliser docker**
 
 - 👯 J'aime collaborer ! Rejoignez moi sur mes projets avec [CodIcam](https://github.com/CodIcam-Toulouse)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont sur [mon GitHub](https://github.com/KoroKira)
 
-- 💬 Posez moi n'importe quelle question sur **du python**, je devrais pouvoir m'en sortir 😁
+- 💬 Python, ma hantise 😁
 
 - 📫 Me contacter **guilhem.desarcy-lemiere@2027.icam.fr**
 
